@@ -27,7 +27,7 @@ const buttonLinks = [
 // ── PRELOAD ───────────────────────────────────────────────
 function preload() {
   bgImage = loadImage("bg.jpg");
-  clickSound = loadSound("mixkit-sci-fi-click-900.wav");
+  clickSound = loadSound("click.wav");
 }
 
 // ── SETUP ─────────────────────────────────────────────────

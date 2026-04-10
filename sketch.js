@@ -26,7 +26,7 @@ const buttonLinks = [
 
 // ── PRELOAD ───────────────────────────────────────────────
 function preload() {
-  bgImage = loadImage("WhatsApp Image 2025-05-27 at 16.04.03_588b0500.jpg");
+  bgImage = loadImage("bg.jpg");
   clickSound = loadSound("mixkit-sci-fi-click-900.wav");
 }
 
